@@ -1,16 +1,36 @@
-Step to Start Project
-For Frontend
------------------------
-cd e-comm-frontend
-yarn
-yarn start
+
+#### Dhanaraj Ecomm Website
+
+ecommerce website
 
 
-Step to Start Project
-For Backend
--------------
+### Step to Start Project
 
-cd e-comm-backend
-yarn
-yarn data:import
-yarn dev
+### For Frontend
+
+```bash
+  cd e-comm-frontend  
+```
+```bash
+  yarn
+````
+```bash
+   yarn start
+```
+    
+
+### For Backend
+
+```bash
+  cd e-comm-backend 
+```
+```bash
+  yarn
+````
+```bash
+  yarn data:import
+```
+```bash
+  yarn dev
+```
+    
